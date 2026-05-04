@@ -48,12 +48,12 @@ Tela 1 — New Ride Request        Tela 2 — Ride (Calendário)
 
 ### Responsabilidades
 
-| Membro | Branch                    | Responsabilidade                                                                                        |
-| ------ | ------------------------- | ------------------------------------------------------------------------------------------------------- |
-| M1     | `feature/setup-tokens`    | Configuração do projeto, tokens SASS, Header, StatusBar, card de corrida, botões Accept/Decline, deploy |
-| M2     | `feature/profile-tabs`    | Card de perfil do motorista, barra de abas com estado ativo, JS de troca de aba, responsividade tela 1  |
-| M3     | `feature/calendar-routes` | Header azul da tela 2, calendário interativo com JS, responsividade tela 2                              |
-| M4     | `feature/ride-card-docs`  | RouteItem (reutilizado nas duas telas), cards de rota, AvatarGroup, relatório técnico PDF               |
+| Membro | Branch                    | Responsabilidade                                                                                                                 |
+| ------ | ------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| M1     | `feature/setup-tokens`    | Configuração do projeto, tokens SASS, Header, StatusBar, card de corrida, botões Accept/Decline, deploy, responsividade,[tela 1] |
+| M2     | `feature/profile-tabs`    | Card de perfil do motorista, barra de abas com estado ativo, JS de troca de aba, responsividade, [tela 1]                        |
+| M3     | `feature/calendar-routes` | Header azul da tela 2, calendário interativo com JS, responsividade, [tela 2]                                                    |
+| M4     | `feature/ride-card-docs`  | RouteItem (reutilizado nas duas telas), cards de rota, AvatarGroup, responsividade, [tela 2]                                     |
 
 ---
 
