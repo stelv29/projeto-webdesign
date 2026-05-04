@@ -12,8 +12,8 @@ O objetivo é replicar, em formato de página web responsiva simulando uma tela 
 
 ### Telas replicadas
 
-- **Tela 1 — New Ride Request:** perfil do motorista, barra de abas e card de corrida com botões de aceitar/recusar
-- **Tela 2 — Ride:** header azul, seletor de calendário interativo e cards de rotas disponíveis
+- **Tela 1 M1 e M2 — New Ride Request:** perfil do motorista, barra de abas e card de corrida com botões de aceitar/recusar
+- **Tela 2 M3 e M4 — Ride:** header azul, seletor de calendário interativo e cards de rotas disponíveis
 
 ---
 
